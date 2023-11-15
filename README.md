@@ -1,7 +1,7 @@
 # LAN-Application-Multiplayer-Game
 This project consists of a multiplayer game server and client, designed to allow users to play various games over a network. The server handles multiple clients, authenticating them and facilitating game sessions. The client connects to the server, allowing players to choose games and opponents.
 
-Server
+# Server
 The server is implemented in Python and handles multiple client connections using threading. It manages user authentication, game sessions, and maintains a scoreboard.
 
 Key Features:
